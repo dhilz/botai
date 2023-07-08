@@ -1,0 +1,32 @@
+{
+  "name": "comptutor",
+  "version": "1.0.0",
+  "description": "Whatsapp Bot Using Ai Connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "Whatsapp",
+    "Api",
+    "Whatsapp",
+    "Bot",
+    "Ai",
+    "ChatBot",
+    "ChatGPT"
+  ],
+  "author": "MUHAMMAD FADOLLAH",
+  "license": "MIT",
+  "dependencies": {
+    "@tobyg74/tiktok-api-dl": "^1.0.4",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "lexicaart": "^1.0.1",
+    "perplexityai": "^1.0.1",
+    "puppeteer": "^20.7.3",
+    "sydney-ai": "^1.0.1",
+    "translatte": "^3.0.1"
+  }
+}
